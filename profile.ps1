@@ -2,7 +2,7 @@ after power shell
 before fastfetch 
 open terminal and paste : 
 winget install fastfetch 
-New-Item -Path $profile.CurrentUserAllHosts -Type File -Force |
+New-Item -Path $profile.CurrentUserAllHosts -Type File -Force
 $PROFILE
 now go to this directory:
 C:\Users\nonam\Documents\WindowsPowerShell
