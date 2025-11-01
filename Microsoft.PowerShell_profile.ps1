@@ -23,7 +23,6 @@ now paste in terminal
 reload
 
 what to paste in Microsoft.PowerShell_profile.ps1:
-# --- Custom Shortcuts tutorial ---
 
 # --- Custom Shortcuts tutorial ---
 function showcmd {
@@ -53,6 +52,7 @@ function gpt { start "https://chatgpt.com" }  # ChatGPT
 function yt { start "https://youtube.com" }  # YouTube
 function goo { start "https://youtube.com" } # Google
 function tor { start "D:\MyShortcuts\Tor Browser.lnk" } # TOR BROWSER
+function opera { start "D:\MyShortcuts\Opera GX Browser.lnk" } # OPERAGX
 function pp { start "D:\MyShortcuts\Comet.lnk" } #Comet Browser
 function gith { start "https://github.com" } # GITHUB
 
