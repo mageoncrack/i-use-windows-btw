@@ -1,0 +1,3 @@
+.config in user folder
+C:\Users\%username%\.config
+after making .config right click it -> show more options -> properties -> check hide -> paste the fastfetch folder
