@@ -24,15 +24,17 @@ reload
 
 what to paste in Microsoft.PowerShell_profile.ps1:
 # --- Custom Shortcuts tutorial ---
-function showcmds {
+
+# --- Custom Shortcuts tutorial ---
+function showcmd {
     Get-Content $PROFILE | Select-String "function"
 }
 
-function profileview {
+function profview {
     Get-Content $PROFILE
 }
 
-function reload {
+function profrel {
     . $PROFILE
     Write-Host "Profile reloaded ✅"
 }
@@ -64,6 +66,7 @@ function dc { start "D:\MyShortcuts\Discord.lnk" } # Discord
 function spot { start "D:\MyShortcuts\Spotify.exe.lnk" } # Spotify
 function obs { start "D:\MyShortcuts\OBS Studio.lnk" } #OBS
 function kreo { start "D:\MyShortcuts\Kreo Hive 65.lnk" } # KREO
+function dav { start "D:\MyShortcuts\DaVinci Resolve.lnk" } # Davinci Resolve
 
 # --- Custom Shortcuts coding ---
 
