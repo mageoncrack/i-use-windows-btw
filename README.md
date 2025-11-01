@@ -11,6 +11,7 @@ This repository contains my custom **Windows 11 setup**, including:
 ## 🖥️ About
 Made for **Windows 11**.  
 Focused on **minimalism**, **efficiency**, and **keyboard-only workflow** (no mouse life 😎).
+this is the tutorial i used to make this : https://youtu.be/z3NpVq-y6jU?si=fshfsVzDpECHnBbz
 
 ## 📁 Structure
 **Step 1:**
