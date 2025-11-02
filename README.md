@@ -13,7 +13,7 @@ Made for **Windows 11**.
 Focused on **minimalism**, **efficiency**, and **keyboard-only workflow** (no mouse life 😎).
 this is the tutorial i used to make this : https://youtu.be/z3NpVq-y6jU?si=fshfsVzDpECHnBbz
 
-## 📁 Terminal Setup
+## 📁 Terminal Setup Walkthrough
 **Step 1:**
 settings.son
 **Step 2:**
@@ -22,3 +22,6 @@ profile.ps1
 fast fetch
 **Step 4:**
 Microsoft.PowerShell_profile.ps1
+
+## ↖️ Cursor
+https://vsthemes.org/en/cursors/
