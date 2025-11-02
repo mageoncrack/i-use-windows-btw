@@ -1,19 +1,22 @@
 # windows-theme
 convenient
-# ⚡ My Windows 11 Terminal & System Setup
+# 🪟 My Windows 11 System Setup
 
 This repository contains my custom **Windows 11 setup**, including:
-- PowerShell configurations
-- Custom functions for launching apps from the terminal
-- Themed terminal appearance and transparency settings
-- Tweaks for a more Linux-like workflow on Windows
+- PowerShell theme
+- dot file/fastfetch config for terminal
+- terminal shortcuts
+- Cursor SKins
+- spotify theme
 
 ## 🖥️ About
 Made for **Windows 11**.  
-Focused on **minimalism**, **efficiency**, and **keyboard-only workflow** (no mouse life 😎).
-this is the tutorial i used to make this : https://youtu.be/z3NpVq-y6jU?si=fshfsVzDpECHnBbz
+Focused on **minimalism**, **efficiency**.
+https://youtu.be/z3NpVq-y6jU?si=fshfsVzDpECHnBbz
 
-## 📁 Terminal Setup Walkthrough
+## 📁 Terminal
+Tutorial (shortcuts not included) : https://youtu.be/z3NpVq-y6jU
+File w/Steps:
 **Step 1:**
 settings.son
 **Step 2:**
@@ -22,6 +25,15 @@ profile.ps1
 fast fetch
 **Step 4:**
 Microsoft.PowerShell_profile.ps1
+**Step 5:**
+Scripts
 
 ## ↖️ Cursor
-https://vsthemes.org/en/cursors/
+Skins : https://vsthemes.org/en/cursors/
+Tutorial : https://youtu.be/reho2TyaiL8
+
+## 🎵 Spotify theme 
+Spotify : https://www.spotify.com/de-en/download/windows/
+Spicetify : https://spicetify.app/
+Tutorial : https://www.youtube.com/watch?v=BIhVmIMgzzU&t=2s
+File : Spotify Mod
