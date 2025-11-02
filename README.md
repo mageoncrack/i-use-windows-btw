@@ -1,4 +1,4 @@
-# terminal-shi
+# windows-theme
 convenient
 # ⚡ My Windows 11 Terminal & System Setup
 
