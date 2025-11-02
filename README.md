@@ -4,10 +4,10 @@ convenient
 
 This repository contains my custom **Windows 11 setup**, including:
 - PowerShell theme
-- dot file/fastfetch config for terminal
-- terminal shortcuts
-- Cursor SKins
-- spotify theme
+- Dot files w/fastfetch config for terminal
+- Terminal shortcuts
+- Cursor Skins
+- Spotify theme
 
 ## 🖥️ About
 Made for **Windows 11**.  
