@@ -13,7 +13,7 @@ Made for **Windows 11**.
 Focused on **minimalism**, **efficiency**, and **keyboard-only workflow** (no mouse life 😎).
 this is the tutorial i used to make this : https://youtu.be/z3NpVq-y6jU?si=fshfsVzDpECHnBbz
 
-## 📁 Structure
+## 📁 Terminal Setup
 **Step 1:**
 settings.son
 **Step 2:**
