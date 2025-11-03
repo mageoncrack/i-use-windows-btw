@@ -12,7 +12,6 @@ This repository contains my custom **Windows 11 setup**, including:
 ## 🖥️ About
 Made for **Windows 11**.  
 Focused on **minimalism**, **efficiency**.
-https://youtu.be/z3NpVq-y6jU?si=fshfsVzDpECHnBbz
 
 ## 📁 Terminal
 Requirements : JetbrainsMono Nerd Font Mono 
