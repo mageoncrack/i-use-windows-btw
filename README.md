@@ -15,6 +15,8 @@ Focused on **minimalism**, **efficiency**.
 https://youtu.be/z3NpVq-y6jU?si=fshfsVzDpECHnBbz
 
 ## 📁 Terminal
+Requirements : JetbrainsMono Nerd Font Mono 
+jetBrainsMono Nerd : https://www.nerdfonts.com/font-downloads
 Tutorial (shortcuts not included) : https://youtu.be/z3NpVq-y6jU
 File w/Steps:
 **Step 1:**
@@ -37,3 +39,8 @@ Spotify : https://www.spotify.com/de-en/download/windows/
 Spicetify : https://spicetify.app/
 Tutorial : https://www.youtube.com/watch?v=BIhVmIMgzzU&t=2s
 File : Spotify Mod
+
+## File Explorer
+Requirements : Windhawk
+WindHawk : https://windhawk.net/
+Tutorial : https://youtu.be/TZaNDOMhh5M?si=emvWWXbq28dXOm1J
