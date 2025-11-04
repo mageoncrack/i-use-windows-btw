@@ -43,3 +43,9 @@ File : Spotify Mod
 Requirements : Windhawk
 WindHawk : https://windhawk.net/
 Tutorial : https://youtu.be/TZaNDOMhh5M?si=emvWWXbq28dXOm1J
+
+## 🧑🏼‍💼 Tiling Window Manager
+Requirements : GlazeWM, YASB
+GlazeWM : https://github.com/glzr-io/glazewm
+YASB : https://github.com/amnweb/yasb
+Tutorial : https://youtu.be/b57zFm3nVxA?si=caLEVBqm1S1-PWeM
