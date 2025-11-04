@@ -48,5 +48,6 @@ Tutorial : https://youtu.be/TZaNDOMhh5M?si=emvWWXbq28dXOm1J
 Requirements : GlazeWM, YASB
 GlazeWM : https://github.com/glzr-io/glazewm
 YASB : https://github.com/amnweb/yasb
-Tutorial : https://youtu.be/b57zFm3nVxA?si=caLEVBqm1S1-PWeM
 YASB Theme Tutorial : https://www.youtube.com/watch?v=YVCK3z-eLvk
+GlazeWM Compat w/YASB Tutorial : https://youtu.be/b57zFm3nVxA?si=caLEVBqm1S1-PWeM
+
