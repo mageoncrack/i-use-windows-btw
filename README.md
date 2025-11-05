@@ -47,7 +47,7 @@ Scripts
 ## 🧑🏼‍💼 Tiling Window Manager
 - Requirements : Seelen UI
 
-## Startup Matrix Rain
+## 🌧️ Startup Matrix Rain
 - Requirements : Python
 - Install Python @ : https://www.python.org/downloads/
 
