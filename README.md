@@ -50,5 +50,6 @@ Scripts
 ## 🌧️ Startup Matrix Rain
 - Requirements : Python
 - Install Python @ : https://www.python.org/downloads/
+- Python Installation Tutorial : https://www.youtube.com/watch?v=w1_D7gnk1xQ
 - Matrix Tutorial : https://www.youtube.com/watch?v=4eQQ9GvsOpQ
 
