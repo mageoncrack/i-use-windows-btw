@@ -49,7 +49,7 @@ Scripts
 
 ## 🌧️ Startup Matrix Rain
 - Requirements : Python 3.12.3
-- Install Python @ : https://www.python.org/downloads/
+- Install Python @ : https://www.python.org/downloads/ OR winget install --id Python.Python.3.12 -v 3.12.3
 - Python Installation Tutorial : https://www.youtube.com/watch?v=w1_D7gnk1xQ
 - Matrix Tutorial : https://www.youtube.com/watch?v=4eQQ9GvsOpQ
 
