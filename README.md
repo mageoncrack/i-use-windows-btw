@@ -18,36 +18,36 @@ Requirements : JetbrainsMono Nerd Font Mono
 jetBrainsMono Nerd : https://www.nerdfonts.com/font-downloads
 Tutorial (shortcuts not included) : https://youtu.be/z3NpVq-y6jU
 File w/Steps:
-**Step 1:**
+- **Step 1:**
 settings.son
-**Step 2:**
+- **Step 2:**
 profile.ps1
-**Step 3:**
+- **Step 3:**
 fast fetch
-**Step 4:**
+- **Step 4:**
 Microsoft.PowerShell_profile.ps1
-**Step 5:**
+- **Step 5:**
 Scripts
 
 ## ↖️ Cursor
-Skins : https://vsthemes.org/en/cursors/
-Tutorial : https://youtu.be/reho2TyaiL8
+- Skins : https://vsthemes.org/en/cursors/
+- Tutorial : https://youtu.be/reho2TyaiL8
 
 ## 🎵 Spotify theme 
-Spotify : https://www.spotify.com/de-en/download/windows/
-Spicetify : https://spicetify.app/
-Tutorial : https://www.youtube.com/watch?v=BIhVmIMgzzU&t=2s
-File : Spotify Mod
+- Spotify : https://www.spotify.com/de-en/download/windows/
+- Spicetify : https://spicetify.app/
+- Tutorial : https://www.youtube.com/watch?v=BIhVmIMgzzU&t=2s
+- File : Spotify Mod
 
 ## 📁 File Explorer
-Requirements : Windhawk
-WindHawk : https://windhawk.net/
-Tutorial : https://youtu.be/TZaNDOMhh5M?si=emvWWXbq28dXOm1J
+- Requirements : Windhawk
+- WindHawk : https://windhawk.net/
+- Tutorial : https://youtu.be/TZaNDOMhh5M?si=emvWWXbq28dXOm1J
 
 ## 🧑🏼‍💼 Tiling Window Manager
-Requirements : Seelen UI
+- Requirements : Seelen UI
 
 ## Startup Matrix Rain
-Requirements : Python
-Install Python @ : https://www.python.org/downloads/
+- Requirements : Python
+- Install Python @ : https://www.python.org/downloads/
 
