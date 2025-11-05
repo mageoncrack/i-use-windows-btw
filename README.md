@@ -47,4 +47,7 @@ Tutorial : https://youtu.be/TZaNDOMhh5M?si=emvWWXbq28dXOm1J
 ## 🧑🏼‍💼 Tiling Window Manager
 Requirements : Seelen UI
 
+## Startup Matrix Rain
+Requirements : Python
+Install Python @ : https://www.python.org/downloads/
 
