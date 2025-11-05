@@ -52,4 +52,8 @@ Scripts
 - Install Python @ : https://www.python.org/downloads/ OR winget install --id Python.Python.3.12 -v 3.12.3
 - Python Installation Tutorial : https://www.youtube.com/watch?v=w1_D7gnk1xQ
 - Matrix Tutorial : https://www.youtube.com/watch?v=4eQQ9GvsOpQ
-
+- File w/Steps : 
+- **Step 1** - Create a File named Matrix.txt in C:\Scripts
+- **Step 2** - take the code from the "Scripts" folder in my repo and paste it in Matrix.txt and rename to file extention to .bat
+- **Step 3** - Win + R -> shell:startup
+- **Step 3** - create a shortcut and put the directory C:\Scripts\Matrix.bat
