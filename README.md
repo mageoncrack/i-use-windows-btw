@@ -14,9 +14,9 @@ Made for **Windows 11**.
 Focused on **minimalism**, **efficiency**.
 
 ## 👨🏼‍💻 Terminal
-Requirements : JetbrainsMono Nerd Font Mono 
-jetBrainsMono Nerd : https://www.nerdfonts.com/font-downloads
-Tutorial (shortcuts not included) : https://youtu.be/z3NpVq-y6jU
+- Requirements : JetbrainsMono Nerd Font Mono 
+- jetBrainsMono Nerd : https://www.nerdfonts.com/font-downloads
+- Tutorial (shortcuts not included) : https://youtu.be/z3NpVq-y6jU
 File w/Steps:
 - **Step 1:**
 settings.son
