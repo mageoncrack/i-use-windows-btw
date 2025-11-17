@@ -1,0 +1,10 @@
+open run menu 
+
+paste this:
+
+shell:startup
+
+create a shortcut and paste this directory:
+
+C:\\Scripts\\PreloadPS.ps1
+
