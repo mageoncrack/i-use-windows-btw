@@ -36,6 +36,7 @@ Scripts
 - Tutorial : https://youtu.be/reho2TyaiL8
 
 ## 🎵 Spotify theme 
+![image alt}(https://github.com/mageoncrack/windows-theme/blob/6dfe06f76f1c1e3844614cea21575871d50b35e3/READMEIMAGES/566564392_1326642238565439_6513326095015140702_n.png)
 - Spotify : https://www.spotify.com/de-en/download/windows/
 - Spicetify : https://spicetify.app/
 - Tutorial : https://www.youtube.com/watch?v=BIhVmIMgzzU&t=2s
