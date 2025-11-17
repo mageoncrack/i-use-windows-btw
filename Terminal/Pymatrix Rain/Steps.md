@@ -2,8 +2,11 @@
 - Install Python @ : https://www.python.org/downloads/ OR winget install --id Python.Python.3.12 -v 3.12.3
 - Python Installation Tutorial : https://www.youtube.com/watch?v=w1_D7gnk1xQ
 - Matrix Tutorial : https://www.youtube.com/watch?v=4eQQ9GvsOpQ
+- Pymatrix Automatic Startup
 - File w/Steps :
-- Step 1 - Create a File named Matrix.txt in C:\Scripts
-- Step 2 - take the code from the "Scripts" folder in my repo and paste it in Matrix.txt and rename to file extention to .bat
-- Step 3 - Win + R -> shell:startup
+- Step 1 - Download Matrix.bat
+- Step 2 - Win + R -> shell:startup
+- ![imager alt](https://github.com/mageoncrack/windows-theme/blob/45eebbdcdb1d99c4cfef42ca3dde3c912131ad33/Terminal/StepImg/pymatrix%20startup/startuppase.png)
 - Step 3 - create a shortcut and put the directory C:\Scripts\Matrix.bat
+- ![image alt](https://github.com/mageoncrack/windows-theme/blob/45eebbdcdb1d99c4cfef42ca3dde3c912131ad33/Terminal/StepImg/pymatrix%20startup/runstartup.png)
+
