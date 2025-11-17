@@ -55,7 +55,7 @@ Scripts
 
 
 ## 🌧️ Startup Matrix Rain
-![image alt}(https://github.com/mageoncrack/windows-theme/blob/6dfe06f76f1c1e3844614cea21575871d50b35e3/READMEIMAGES/566564392_1326642238565439_6513326095015140702_n.png)
+![image alt](https://github.com/mageoncrack/windows-theme/blob/55343daf29d61ac9e48a4ec52acfc97b223414ad/READMEIMAGES/575602433_614455458344337_3056734646664780517_n.png)
 - Requirements : Python 3.12.3
 - Install Python @ : https://www.python.org/downloads/ OR winget install --id Python.Python.3.12 -v 3.12.3
 - Python Installation Tutorial : https://www.youtube.com/watch?v=w1_D7gnk1xQ
