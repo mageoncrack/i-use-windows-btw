@@ -1,5 +1,4 @@
 open powershell -> click on the drop down menu (downward looking arrow) -> click settings -> click in the bottom left corner and paste this code
-
 {
     "$help": "https://aka.ms/terminal-documentation",
     "$schema": "https://aka.ms/terminal-profiles-schema",
@@ -77,7 +76,7 @@ open powershell -> click on the drop down menu (downward looking arrow) -> click
                 "weight": "extra-black"
             },
             "intenseTextStyle": "all",
-            "opacity": 80,
+            "opacity": 70,
             "padding": "8",
             "useAcrylic": false
         },
