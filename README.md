@@ -48,11 +48,9 @@ Scripts
 ## 🧑🏼‍💼 Tiling Window Manager
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/66642482d6299b9ead334609bb6905e6cbfed119/READMEIMAGES/Screenshot%202025-11-17%20182427.png)
 - Requirements : Seelen UI
-- Settings : 
-- (i)
-- (ii)
-- (iii)
-- (iv)
+- Settings used : 
+- (i) Fancy Toolbar 
+- (ii) Windows Manager
 
 ## 🌧️ Startup Matrix Rain
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/55343daf29d61ac9e48a4ec52acfc97b223414ad/READMEIMAGES/575602433_614455458344337_3056734646664780517_n.png)
