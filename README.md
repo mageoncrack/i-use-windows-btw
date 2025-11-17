@@ -1,17 +1,19 @@
 # windows-theme
 convenient
-# 🪟 My Windows 11 System Setup
+# 🪟 My Windows 11 System Customization
 
-This repository contains my custom **Windows 11 setup**, including:
+This repository contains my custom **Windows 11 customizations**, including:
 - PowerShell theme
 - Dot files w/fastfetch config for terminal
 - Terminal shortcuts
 - Cursor Skins
 - Spotify theme
+- Tiling Window Manager
+- Terminal Startup Animation
 
 ## 🖥️ About
 Made for **Windows 11**.  
-Focused on **minimalism**, **efficiency**.
+Focused on **Linux-like theme**, **efficiency**.
 
 ## 👨🏼‍💻 Terminal
 - Requirements : JetbrainsMono Nerd Font Mono 
