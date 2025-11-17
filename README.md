@@ -16,6 +16,7 @@ Made for **Windows 11**.
 Focused on **Linux-like theme**, **efficiency**.
 
 ## 👨🏼‍💻 Terminal
+![image alt}(https://github.com/mageoncrack/windows-theme/blob/6dfe06f76f1c1e3844614cea21575871d50b35e3/READMEIMAGES/566564392_1326642238565439_6513326095015140702_n.png)
 - Requirements : JetbrainsMono Nerd Font Mono 
 - jetBrainsMono Nerd : https://www.nerdfonts.com/font-downloads
 - Tutorial (shortcuts not included) : https://youtu.be/z3NpVq-y6jU
@@ -32,6 +33,7 @@ Microsoft.PowerShell_profile.ps1
 Scripts
 
 ## ↖️ Cursor
+![image alt}(https://github.com/mageoncrack/windows-theme/blob/6dfe06f76f1c1e3844614cea21575871d50b35e3/READMEIMAGES/566564392_1326642238565439_6513326095015140702_n.png)
 - Skins : https://vsthemes.org/en/cursors/
 - Tutorial : https://youtu.be/reho2TyaiL8
 
@@ -48,9 +50,12 @@ Scripts
 - Tutorial : https://youtu.be/TZaNDOMhh5M?si=emvWWXbq28dXOm1J
 
 ## 🧑🏼‍💼 Tiling Window Manager
+![image alt}(https://github.com/mageoncrack/windows-theme/blob/6dfe06f76f1c1e3844614cea21575871d50b35e3/READMEIMAGES/566564392_1326642238565439_6513326095015140702_n.png)
 - Requirements : Seelen UI
 
+
 ## 🌧️ Startup Matrix Rain
+![image alt}(https://github.com/mageoncrack/windows-theme/blob/6dfe06f76f1c1e3844614cea21575871d50b35e3/READMEIMAGES/566564392_1326642238565439_6513326095015140702_n.png)
 - Requirements : Python 3.12.3
 - Install Python @ : https://www.python.org/downloads/ OR winget install --id Python.Python.3.12 -v 3.12.3
 - Python Installation Tutorial : https://www.youtube.com/watch?v=w1_D7gnk1xQ
