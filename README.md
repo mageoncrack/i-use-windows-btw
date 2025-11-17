@@ -2,18 +2,17 @@
 convenient
 # 🪟 My Windows 11 System Customization
 
-This repository contains my custom **Windows 11 customizations**, including:
-- PowerShell theme
-- Dot files w/fastfetch config for terminal
-- Terminal shortcuts
-- Cursor Skins
-- Spotify theme
-- Tiling Window Manager
-- Terminal Startup Animation
-
 ## 🖥️ About
 Made for **Windows 11**.  
 Focused on **Linux-like theme**, **efficiency**.
+
+This repository contains my custom **Windows 11 customizations**, including:
+- Terminal
+- Cursor
+- Spotify Theme
+- Tiling Window Manager
+- Startup Matrix Rain
+
 
 ## 👨🏼‍💻 Terminal
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/924d7926d6824989087a0f5c4e9d2812b46c2b4b/READMEIMAGES/Screenshot%202025-11-17%20182528.png)
