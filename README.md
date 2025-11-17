@@ -16,7 +16,7 @@ Made for **Windows 11**.
 Focused on **Linux-like theme**, **efficiency**.
 
 ## 👨🏼‍💻 Terminal
-![image alt}(https://github.com/mageoncrack/windows-theme/blob/6dfe06f76f1c1e3844614cea21575871d50b35e3/READMEIMAGES/566564392_1326642238565439_6513326095015140702_n.png)
+![image alt](https://github.com/mageoncrack/windows-theme/blob/924d7926d6824989087a0f5c4e9d2812b46c2b4b/READMEIMAGES/Screenshot%202025-11-17%20182528.png)
 - Requirements : JetbrainsMono Nerd Font Mono 
 - jetBrainsMono Nerd : https://www.nerdfonts.com/font-downloads
 - Tutorial (shortcuts not included) : https://youtu.be/z3NpVq-y6jU
