@@ -6,14 +6,7 @@ convenient
 Made for **Windows 11**.  
 Focused on **Linux-like theme**, **efficiency**.
 
-This repository contains my custom **Windows 11 customizations**, including:
-- [Terminal](https://github.com/mageoncrack/windows-theme/tree/main/Terminal)
-- Cursor
-- Spotify Theme
-- Tiling Window Manager
-- Startup Matrix Rain
-
-
+This repository contains my custom **Windows 11 customizations**, including the following:
 ## 👨🏼‍💻 [Terminal](https://github.com/mageoncrack/windows-theme/tree/main/Terminal)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/924d7926d6824989087a0f5c4e9d2812b46c2b4b/READMEIMAGES/Screenshot%202025-11-17%20182528.png)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/55343daf29d61ac9e48a4ec52acfc97b223414ad/READMEIMAGES/575602433_614455458344337_3056734646664780517_n.png)
