@@ -7,7 +7,7 @@ Made for **Windows 11**.
 Focused on **Linux-like theme**, **efficiency**.
 
 This repository contains my custom **Windows 11 customizations**, including:
-- Terminal
+- [Terminal](https://github.com/mageoncrack/windows-theme/tree/main/Terminal)
 - Cursor
 - Spotify Theme
 - Tiling Window Manager
