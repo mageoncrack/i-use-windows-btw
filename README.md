@@ -8,11 +8,10 @@ Focused on **Linux-like theme**, **efficiency**.
 
 This repository contains my custom **Windows 11 customizations**, including the following:
 ## 👨🏼‍💻 [Wallpapers](https://github.com/mageoncrack/windows-theme/tree/main/wallpapers)
-![image alt](https://github.com/mageoncrack/windows-theme/blob/eb9b9360730ae5f3f7e50ac2c91d54d20eff6352/wallpapers/yessirsupra_Close-up_of_a_womens_face_in_the_style_of_crosshatc_830a9705-8960-4305-895e-0806c6b74061.png)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/eb9b9360730ae5f3f7e50ac2c91d54d20eff6352/wallpapers/yessirsupra_Photonegative_refractograph_of_a_person_with_an_ove_6f1006ec-ce17-4759-afda-700be77ef681.webp)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/eb9b9360730ae5f3f7e50ac2c91d54d20eff6352/wallpapers/yessirsupra_a_Knight_wearing_white-armor_standing_in_high_snow__0cc356d9-79b3-4c97-abd7-1cc88b44a7b2.png)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/eb9b9360730ae5f3f7e50ac2c91d54d20eff6352/wallpapers/yessirsupra_eyes_floating_trough_eternity_galaxy_navy-blue_past_c453207c-96f9-46b3-a8e1-ac5828bc33a1.png)
-![image alt](https://github.com/mageoncrack/windows-theme/blob/eb9b9360730ae5f3f7e50ac2c91d54d20eff6352/wallpapers/yessirsupra_eyes_floating_trough_eternity_galaxy_watercolor-art_27710e78-9a18-4721-a256-1daf2a2deb74.png)
+
 ## 👨🏼‍💻 [Terminal](https://github.com/mageoncrack/windows-theme/tree/main/Terminal)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/264e8fd7f605e4baa1f1fd95e91e3b9c81b0e706/READMEIMAGES/575602433_614455458344337_3056734646664780517_n.png)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/264e8fd7f605e4baa1f1fd95e91e3b9c81b0e706/READMEIMAGES/Screenshot%202025-11-17%20182528.png)
