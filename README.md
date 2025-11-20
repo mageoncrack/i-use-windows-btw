@@ -32,7 +32,7 @@ This repository contains my custom **Windows 11 customizations**, including the 
 
 ## 🧑🏼‍💼 Tiling Window Manager
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/66642482d6299b9ead334609bb6905e6cbfed119/READMEIMAGES/Screenshot%202025-11-17%20182427.png)
-- Requirements : Seelen UI
-- Settings used : 
-- (i) Fancy Toolbar 
-- (ii) Windows Manager
+- Requirements : [Seelen UI](https://seelen.io/)
+- Settings for : 
+- (i) [Fancy Toolbar](https://github.com/mageoncrack/windows-theme/tree/main/seelen%20settings/toolbar) ->  [Toolbar Customization Theme](https://github.com/mageoncrack/windows-theme/tree/main/seelen%20settings/toolbar/plugin)
+- (ii) [Windows Manager](https://github.com/mageoncrack/windows-theme/tree/main/seelen%20settings/window%20manager)
