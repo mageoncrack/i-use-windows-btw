@@ -6,6 +6,10 @@ convenient
 Made for **Windows 11**.  
 Focused on **Linux-like theme**, **efficiency**.
 
+System Theme color : #865ADD
+Taskbar color : 10033BA7 
+Toolbar color : 10033b
+
 This repository contains my custom **Windows 11 customizations**, including the following:
 ## 👨🏼‍💻 [Wallpapers](https://github.com/mageoncrack/windows-theme/tree/main/wallpapers)
 ![image alt](https://github.com/mageoncrack/windows-theme/blob/eb9b9360730ae5f3f7e50ac2c91d54d20eff6352/wallpapers/yessirsupra_Photonegative_refractograph_of_a_person_with_an_ove_6f1006ec-ce17-4759-afda-700be77ef681.webp)
