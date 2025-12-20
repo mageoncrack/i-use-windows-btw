@@ -1,5 +1,4 @@
-# windows-theme
-convenient
+# i-use-windows-btw
 # 🪟 My Windows 11 System Customization
 
 ## 🖥️ About
